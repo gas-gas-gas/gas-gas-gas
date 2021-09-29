@@ -51,7 +51,7 @@ class Profile:
 ```
 
 ## เพิ่มเติม...
-<img align="center" alt="kkkki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=open-ki&show_icons=true&hide_border=true" />
+<img align="center" alt="kkkki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gas-gas-gas&show_icons=true&hide_border=true" />
 
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://media.giphy.com/media/KDyoY2v2MlDHy/giphy.gif"/>
