@@ -59,8 +59,8 @@ class Profile:
 
 <p align="center">
     <h2 align="center">มาสร้างผลงานดีๆ ด้วยกันเถอะ&nbsp;❤️&nbsp;</h2>
-    <img src="https://count.getloli.com/get/@gas-gas-gas" alt="gas-gas-gas"/>
     <br>
+    <img src="https://count.getloli.com/get/@gas-gas-gas" alt="gas-gas-gas"/>
 </p>
 <br>
 <br>
