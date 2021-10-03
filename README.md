@@ -59,11 +59,11 @@ class Profile:
 
 <p align="center">
     <h2 align="center">มาสร้างผลงานดีๆ ด้วยกันเถอะ&nbsp;❤️&nbsp;</h2>
+    <img src="https://count.getloli.com/get/@gas-gas-gas" alt="gas-gas-gas"/>
     <br>
 </p>
 <br>
 <br>
-<img src="https://count.getloli.com/get/@gas-gas-gas" alt="gas-gas-gas" />
 
 <!---
 gas-gas-gas/gas-gas-gas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
