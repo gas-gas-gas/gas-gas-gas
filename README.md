@@ -55,12 +55,12 @@ class Profile:
 
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://media.giphy.com/media/KDyoY2v2MlDHy/giphy.gif"/>
+  <img src="https://count.getloli.com/get/@gas-gas-gas" alt="gas-gas-gas"/>
 </p>
 
 <p align="center">
     <h2 align="center">มาสร้างผลงานดีๆ ด้วยกันเถอะ&nbsp;❤️&nbsp;</h2>
     <br>
-    <img src="https://count.getloli.com/get/@gas-gas-gas" alt="gas-gas-gas"/>
 </p>
 <br>
 <br>
