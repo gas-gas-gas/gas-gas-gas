@@ -2,7 +2,12 @@
     <img align="right" src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif"/>
 </p>
 <p>
-    <h1 align="left"><b>Hello there!!<br>I'm Priya Kosonwichaya<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></b><img src="https://count.getloli.com/get/@gas-gas-gas" alt="gas-gas-gas"/></h1>
+    <h1 align="left">
+        <b>Hello there!!<br>
+            I'm Priya Kosonwichaya
+            <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+        </b>
+    </h1>
 </p>
 <p><h4 align="left"><b><i>"First, solve the problem. Then, write the code."</i></b></h4></p>
 <br>
@@ -59,15 +64,11 @@ class Profile:
 
 <p align="center">
     <h2 align="center">มาสร้างผลงานดีๆ ด้วยกันเถอะ&nbsp;❤️&nbsp;</h2>
-    <br>
 </p>
 
 <p align="center">
   <img src="https://count.getloli.com/get/@gas-gas-gas" alt="gas-gas-gas"/>
 </p>
-
-<br>
-<br>
 
 <!---
 gas-gas-gas/gas-gas-gas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
