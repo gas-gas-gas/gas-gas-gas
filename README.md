@@ -1,18 +1,3 @@
-<p align="center">
-    <img align="right" src="https://media.giphy.com/media/1jgLDGD1Bn27e/giphy.gif"/>
-</p>
-<p>
-    <h1 align="left">
-        <b>Hello there!!<br>
-            I'm Priya Kosonwichaya
-            <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-        </b>
-    </h1>
-</p>
-<p><h4 align="left"><b><i>"First, solve the problem. Then, write the code."</i></b></h4></p>
-<br>
-<br>
-
 ## มารู้จักกันเพิ่มอีกหน่อยสิ💖
 <p>
     <a href="https://www.instagram.com/mindnmy/">
