@@ -1,4 +1,4 @@
-## มารู้จักกันเพิ่มอีกหน่อยสิ💖
+## AKA 🎗️
 <p>
     <a href="https://www.instagram.com/mindnmy/">
         <img align="left" alt="Priya's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -40,19 +40,8 @@ class Profile:
     
 ```
 
-## เพิ่มเติม...
-<img align="center" alt="kkkki's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gas-gas-gas&show_icons=true&hide_border=true" />
-
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://media.giphy.com/media/KDyoY2v2MlDHy/giphy.gif"/>
-</p>
-
-<p align="center">
-    <h2 align="center">มาสร้างผลงานดีๆ ด้วยกันเถอะ&nbsp;❤️&nbsp;</h2>
-</p>
-
-<p align="center">
-  <img src="https://count.getloli.com/get/@gas-gas-gas" alt="gas-gas-gas"/>
 </p>
 
 <!---
